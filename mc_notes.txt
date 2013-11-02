@@ -89,3 +89,5 @@ format of title and headings? paragraphs?
 attach mailing?
 Clarifies who requested the report, when it was requested, and who wrote it and follows this information with conclusions. (drop you, from me?)
 format?
+has the mailing been sent?
+coupons are sales or marketting?
